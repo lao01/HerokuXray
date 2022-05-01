@@ -11,10 +11,9 @@ Supports storage of custom files. Both directories and account passwords are UUI
 Heroku. It provides us with a free container service. We should not abuse it, so this project should not be used as a long-term circumvention.
 Mirror image
 This image will not be blocked because it takes up a lot of resources. After registering a Heroku account and logging in, click the button below to deploy.
-
 ### Server
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/thawhakyi/HerokuXray) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/lao01/HerokuXray) 
 
 Click on the purple above `Deploy to Heroku` jump to the heroku app creation page, fill in the name of the app, select the node (European node is recommended, and the US node will automatically delete YouTube comments and likes!), modify some parameters and UUIDs as needed, and click below deployStart to create the deployment application.
 If an error occurs, you can try a few more times. After the deployment is completed, the bottom of the page will be displayed `Your app was successfully deployed`
